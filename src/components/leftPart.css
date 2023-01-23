@@ -1,0 +1,51 @@
+.leftPart{
+    display:flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+    flex:2;
+    height:100vh;  
+    background: rgba(0, 0, 0, 0.822);   
+}
+.leftPart .leftPartTop{
+    margin-bottom: 90px;
+}
+.leftPart .leftPartTop .imageOfMine{
+    width:200px;
+    height:200px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.leftPart .leftPartTop h5{
+    color:white;
+    margin-top: 10px;
+}
+.leftPart .leftPartTop .h6_1{
+    color:white;
+    font-size: 14px;
+}
+.leftPart .leftPartTop .h6_2{
+    color:white;
+    font-size: 14px;
+}
+.leftPart .leftPartBottom .list_item{
+    list-style-type: none;
+    background: white;
+    width:170px;
+    height: 25px;
+    margin-left: -33px;
+    margin-bottom:45px;
+    border-radius: 50px;
+}
+.leftPart .leftPartBottom ul li:last-child{
+    margin-bottom: 0px;
+}
+.leftPart .leftPartBottom .list_item p{
+    font-weight: bold;
+}
+.leftPart .leftPartBottom .list_item p:hover{
+    text-decoration: underline;
+}
+
+ 

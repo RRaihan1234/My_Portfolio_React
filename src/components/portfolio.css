@@ -1,0 +1,99 @@
+.portfolio_section .c1{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.portfolio_section .c1 .img1{
+    height:500px;
+    width:1000px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c2{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.portfolio_section .c2 .img2{
+    height:500px;
+    width:1000px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c3{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.portfolio_section .c3 .img3{
+    height:500px;
+    width:1000px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c4{
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+.portfolio_section .c4 .img4{
+    height:500px;
+    width:500px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c5{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.portfolio_section .c5 .img5{
+    height:500px;
+    width:500px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c6{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.portfolio_section .c6 .img6{
+    height:500px;
+    width:600px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c7{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.portfolio_section .c7 .img7{
+    height:500px;
+    width:500px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c8{
+    margin-bottom: 130px;
+    margin-top: 50px;
+}
+.portfolio_section .c8 .img8{
+    height:450px;
+    width:900px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c9{
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+.portfolio_section .c9 .img9{
+    height:570px;
+    width:500px !important;
+    margin: 0 auto;
+}
+.portfolio_section .c10{
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+.portfolio_section .c10 .img10{
+    height:570px;
+    width:500px !important;
+    margin: 0 auto;
+}
+.portfolio_section h3{
+    color:black;
+}
+.portfolio_section .para{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
