@@ -119,7 +119,7 @@ function Portfolio() {
                   />
               </div>
               <Carousel.Caption>
-                <h3>Employee Info Storage Application using Angular, 
+                <h3>Employee Info Storage CRUD Application using Angular, 
                                       Bootstrap, and JSON Server</h3>
                 {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
               </Carousel.Caption>
