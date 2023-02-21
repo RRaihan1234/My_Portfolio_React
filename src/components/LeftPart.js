@@ -21,7 +21,7 @@ function LeftPart() {
                                 to="/"
                                 className={(navInfo) => (navInfo.isActive ? classes.active : "")}
                               >
-                                 <p style={{textAlign:"center"}}>About Me</p>
+                                 <p style={{textAlign:"center"}}>About</p>
                               </NavLink>
                             </li>
                             <li className="list_item">
